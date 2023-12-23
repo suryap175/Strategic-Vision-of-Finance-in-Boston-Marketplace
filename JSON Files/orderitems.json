@@ -1,0 +1,10 @@
+[{"ProductID":49, "ProductName":"Strawberry", "OrderID":3, "Price":5, "CustomerID":0},
+ {"ProductID":6, "ProductName":"Lenovo Laptop", "OrderID":12, "Price":750, "CustomerID":0},
+ {"ProductID":99, "ProductName":"Spatula", "OrderID":2, "Price":3, "CustomerID":0},
+ {"ProductID":110, "ProductName":"Toothbrush", "OrderID":11, "Price":4, "CustomerID":0},
+ {"ProductID":20, "ProductName":"Butter", "OrderID":5, "Price":8, "CustomerID":0},
+ {"ProductID":54, "ProductName":"Ramen Noodles", "OrderID":7, "Price":7, "CustomerID":0},
+ {"ProductID":9, "ProductName":"Headphones", "OrderID":15, "Price":25, "CustomerID":0},
+ {"ProductID":26, "ProductName":"Paneer", "OrderID":4, "Price":10, "CustomerID":0},
+ {"ProductID":30, "ProductName":"Chicken Breast", "OrderID":1, "Price":15, "CustomerID":0},
+ {"ProductID":80, "ProductName":"Heineken", "OrderID":9, "Price":13, "CustomerID":0}]

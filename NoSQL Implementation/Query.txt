@@ -1,0 +1,7 @@
+1. db.orders.aggregate([{$lookup: { from: "stores", localField: "EIN_Number", foreignField: "EIN_Number", as: "Total Orders"}}]).pretty()
+
+2. Failed attemt: db.orders.aggregate([{$group: {}},{$lookup: { from: "stores", localField: "EIN_Number", foreignField: "EIN_Number", as: "Total Orders"}, {$count: "Total Orders"}}])
+
+3. db.orderitems.find({ProductID:5}, {OrderID:1, ProductName:1, Price:1}).pretty()
+
+4. db.orderitems.find({OrderID: 19}).pretty()

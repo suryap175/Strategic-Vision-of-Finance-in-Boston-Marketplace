@@ -1,0 +1,19 @@
+SELECT c.Name, c.CustomerID, c.PhoneNumber, 
+o.OrderID, o.created_at, o.updated_at, o.status
+FROM customer c JOIN orders o
+                ON c.CustomerID = o.CustomerID
+                where o.Status='Delivered';
+
+
+SELECT p.ProductName, p.CategoryID, p.ProductID,
+pp.Price, pp.EIN_Number 
+FROM Products p JOIN productprices pp
+                ON p.ProductID = pp.ProductID
+                where pp.EIN_Number='492947174' and Price is not null;
+
+
+SELECT sum(o.Price) as Total_Sales, c.CategoryName  from orderitems o
+INNER JOIN products p on o.ProductID =p.ProductID
+INNER JOIN category c on p.CategoryID =c.categoryID
+group by c.CategoryID
+order by Total_Sales DESC
