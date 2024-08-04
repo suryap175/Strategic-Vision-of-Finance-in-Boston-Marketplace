@@ -12,6 +12,7 @@ Advanced SQL Queries: Implemented complex SQL queries to generate financial repo
 **Data Analysis:** R Programming, Excel
 
 **Data Visualization:** Tableau, PowerBI, Plotly
+
 **Other Skills**: Database Design, Financial Analysis, Exploratory Data Analysis (EDA)
 
 **Objectives**
