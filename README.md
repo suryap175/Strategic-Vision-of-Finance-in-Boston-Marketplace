@@ -7,10 +7,12 @@ Data Analysis and Visualization: Led the analysis of order data using R and Exce
 Advanced SQL Queries: Implemented complex SQL queries to generate financial reports. These reports included revenue analysis and cost tracking, providing critical support for strategic decision-making and the identification of trends and patterns.
 
 **Tools and Technologies**
-Databases: SQL, MongoDB, Neo4j
-Data Analysis: R Programming, Excel
-Data Visualization: PowerBI
-Other Skills: Database Design, Financial Analysis, Exploratory Data Analysis (EDA)
+**Databases:** SQL, MongoDB, Neo4j
+
+**Data Analysis:** R Programming, Excel
+
+**Data Visualization:** Tableau, PowerBI, Plotly
+**Other Skills**: Database Design, Financial Analysis, Exploratory Data Analysis (EDA)
 
 **Objectives**
 To design a comprehensive database system that supports product price comparison, transportation cost calculation, and order placement.
